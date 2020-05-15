@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   x="0px"
+   y="0px"
+   viewBox="0 0 127.99999 127.99999"
+   enable-background="new 0 0 1000 1000"
+   xml:space="preserve"
+   id="svg10"
+   sodipodi:docname="busywidget.svg"
+   width="127.99999"
+   height="127.99999"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"><metadata
+   id="metadata8"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><defs
+   id="defs14" /><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="1920"
+   inkscape:window-height="1017"
+   id="namedview12"
+   showgrid="false"
+   inkscape:zoom="1.3350176"
+   inkscape:cx="-0.67380625"
+   inkscape:cy="70.894497"
+   inkscape:window-x="0"
+   inkscape:window-y="0"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="svg10" />
+<g
+   id="busywidget"
+   transform="matrix(0.13061224,0,0,0.13061224,-1.3061224,-1.3061224)"><g
+     id="g6"><path
+       d="m 501.63149,236.13463 c -145.90606,0 -264.52346,116.5938 -267.91395,261.67963 3.11709,-126.60155 99.36709,-228.15616 217.65628,-228.15616 120.25767,0 217.71087,104.99998 217.71087,234.50001 0,27.72643 22.47657,50.25772 50.25789,50.25772 27.78128,0 50.25772,-22.58585 50.25772,-50.31238 0,-147.98443 -119.98438,-267.96882 -267.96881,-267.96882 z m 0,535.93752 c 145.90638,0 264.52346,-116.59365 267.91425,-261.67975 -3.11738,126.60161 -99.36736,228.15631 -217.65634,228.15631 -120.25797,0 -217.71108,-105.00001 -217.71108,-234.50003 0,-27.72659 -22.47651,-50.25783 -50.25766,-50.25783 -27.78133,0 -50.25787,22.58603 -50.25787,50.3126 0,147.98424 119.98446,267.9687 267.9687,267.9687 z"
+       id="path4"
+       style="fill:#2a4c76;fill-opacity:1;stroke-width:0.54687482"
+       inkscape:connector-curvature="0" /></g></g>
+</svg>

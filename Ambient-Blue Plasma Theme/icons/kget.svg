@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="24"
+   height="24"
+   viewBox="0 0 24 24"
+   version="1.1"
+   id="SVGRoot"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="kget.svg">
+  <defs
+     id="defs823" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="11.636364"
+     inkscape:cx="-4.9726556"
+     inkscape:cy="11.828125"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:grid-bbox="true" />
+  <metadata
+     id="metadata826">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(30.304687,1.1718747)">
+    <g
+       id="kget"
+       transform="matrix(0.01988746,0,0,0.01988746,-26.148875,1.1642439)">
+      <g
+         transform="matrix(0.1,0,0,-0.1,0,511)"
+         id="g8">
+        <path
+           d="m 3602.0159,5007.4 c -38.2,-4 -157,-18.1 -261.7,-30.2 -1856.1,-211.4 -3464.60023,-1530 -4056.50024,-3329.8 -171.2,-519.3 -239.59986,-960.2 -239.59986,-1540 0,-432.8 20.09992,-640.2 100.69986,-1028.7 390.5,-1876.2 1894.30014,-3380.1 3770.60024,-3770.6 388.5,-80.5 595.9,-100.7 1028.7,-100.7 432.8,0 640.2,20.1 1028.7,100.7 1876.2,390.6 3380.1,1894.4 3770.6,3770.6 80.6,388.5 100.7,595.9 100.7,1028.7 0,561.7 -62.4,990.5 -221.4,1491.7 -569.7,1797.7 -2107.8,3094.2 -4004.1,3372 -195.4,28.3 -875.8,52.4 -1016.7,36.3 z m 1077,-408.7 c 1280.4,-217.4 2369.4,-928.1 3074,-2005.1 354.3,-541.5 585.8,-1145.5 694.5,-1811.8 48.3,-312 50.3,-1018.6 0,-1338.7 -102.7,-664.3 -336.2,-1278.3 -694.5,-1821.9 -352.3,-537.5 -787.1,-972.3 -1322.6,-1322.6 -545.5,-358.3 -1157.6,-591.8 -1821.9,-694.5 -320.1,-50.3 -1026.7,-48.3 -1338.8,0 -1026.7,165.1 -1906.4,624.1 -2617.10005,1364.9 -646.1002147,674.3 -1056.80019,1509.8 -1211.80019,2464 -48.3,312 -50.3,1018.7 0,1338.7 118.8,765 406.7,1453.5 865.70021,2073.5 183.20002,245.6 654.29992,716.7 899.90003,899.9 704.6,521.4 1377,779.1 2355.4,899.9 181.1,22.2 883.7,-8 1117.2,-46.3 z"
+           id="path4"
+           inkscape:connector-curvature="0"
+           style="fill:#2a4c76;fill-opacity:1" />
+        <path
+           d="m 2820.999,123.5 c -583.8,-1129.3 -1058.9,-2059.4 -1052.9,-2063.5 4,-4 78.5,26.2 165.1,64.4 740.8,340.2 1662.9,642.2 1960.8,642.2 297.9,0 1222,-302 1960.8,-642.2 86.5,-38.2 161,-68.4 165.1,-64.4 6.1,4 -382.5,763 -859.6,1687 -477.1,924 -954.2,1848.1 -1060.9,2055.4 -108.8,207.4 -199.4,378.6 -205.4,378.6 -6,0 -487.2,-926.1 -1073,-2057.5 z"
+           id="path6"
+           inkscape:connector-curvature="0"
+           style="fill:#d3dae3;fill-opacity:1" />
+      </g>
+    </g>
+    <g
+       id="system-shutdown"
+       transform="matrix(0.75,0,0,0.75,31.662598,-1.1718747)">
+      <rect
+         ry="0"
+         rx="0"
+         y="0"
+         x="-82.623047"
+         height="32"
+         width="32"
+         id="rect1131"
+         style="opacity:0;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      <g
+         transform="translate(2.3769531,44)"
+         id="g1134" />
+    </g>
+  </g>
+</svg>
