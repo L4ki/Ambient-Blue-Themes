@@ -22,6 +22,9 @@ Added widget: plasmoidheading.svg
 Breeze-Ambient-Blue GTK-3 Theme:
 --------------------------------
 
+Changelog: 29.06.2020.
+----------------------
+
 Custom Theme for KDE Plasma 5.19
 
 
