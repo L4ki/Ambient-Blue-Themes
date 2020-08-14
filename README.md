@@ -38,6 +38,11 @@ Breeze-Ambient-Blue-Icons
 
 Fixed icons: dialog-cancel.svg, dialog-close.svg
 
+Breeze-Ambient-Blue GTK-3 Theme
+-------------------------------
+
+Correction of gtk.css file
+
 
 
 
