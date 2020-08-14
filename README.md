@@ -27,4 +27,9 @@ Changelog: 29.06.2020.
 
 Custom Theme for KDE Plasma 5.19
 
+Changelog: 14.08.2020.
+----------------------
+
+Redesigned Plasma Theme
+
 
