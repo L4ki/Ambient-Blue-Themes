@@ -31,5 +31,13 @@ Changelog: 14.08.2020.
 ----------------------
 
 Redesigned Plasma Theme
+------------------------
+
+Breeze-Ambient-Blue-Icons
+-------------------------
+
+Fixed icons: dialog-cancel.svg, dialog-close.svg
+
+
 
 
