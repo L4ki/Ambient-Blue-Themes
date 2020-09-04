@@ -53,5 +53,9 @@ Fix widgets: button.svg, viewitem.svg
 
 Icon correction: battery.svg
 
+GTK-3 Theme
+-----------
+
+Correction of gtkrc file
 
 
