@@ -43,6 +43,15 @@ Breeze-Ambient-Blue GTK-3 Theme
 
 Correction of gtk.css file
 
+Changelog: 04.09.2020.
+---------------------
+
+PlasmaTheme
+------------
+
+Fix widgets: button.svg, viewitem.svg
+
+Icon correction: battery.svg
 
 
 
