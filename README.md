@@ -46,7 +46,7 @@ Correction of gtk.css file
 Changelog: 04.09.2020.
 ---------------------
 
-PlasmaTheme
+Plasma Theme
 ------------
 
 Fix widgets: button.svg, viewitem.svg
@@ -57,5 +57,24 @@ GTK-3 Theme
 -----------
 
 Correction of gtkrc file
+
+Changelog: 26.09.2020.
+---------------------
+
+Icons
+-----
+
+Add some icone apps (16 and 48)
+
+Plasma Theme
+-------------
+
+Fixed widget: button.svg
+
+GTK-3 Theme
+------------
+
+Correction of gtk.css file
+
 
 
